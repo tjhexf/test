@@ -1,7 +1,7 @@
 \* C enthusiast and low level programmer;
 
-\* obsessed with native optimization;
+\* obsessed with optimization;
 
 \* high level languages are overrated;
   
-\* x86 Assembly, C, Rust;
+\* x86 Assembly, C, C++, Rust;
